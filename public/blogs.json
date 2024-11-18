@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Exploring the Future of AI",
+      "author_name": "Alice Johnson",
+      "published_date": "2024-11-15",
+      "hashtag": ["#AI", "#Tech", "#Future"],
+      "reading_time": 5,
+      "author_img": "https://example.com/images/alice.jpg",
+      "cover_img": "https://example.com/images/ai-future.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Art of Minimalist Living",
+      "author_name": "Brian Carter",
+      "published_date": "2024-10-25",
+      "hashtag": ["#Minimalism", "#Lifestyle", "#Wellness"],
+      "reading_time": 7,
+      "author_img": "https://example.com/images/brian.jpg",
+      "cover_img": "https://example.com/images/minimalist-living.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Top 10 Travel Destinations for 2025",
+      "author_name": "Chloe Smith",
+      "published_date": "2024-11-01",
+      "hashtag": ["#Travel", "#Destinations", "#Adventure"],
+      "reading_time": 8,
+      "author_img": "https://example.com/images/chloe.jpg",
+      "cover_img": "https://example.com/images/travel-2025.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mastering Python for Data Science",
+      "author_name": "David Lee",
+      "published_date": "2024-11-10",
+      "hashtag": ["#Python", "#DataScience", "#Programming"],
+      "reading_time": 10,
+      "author_img": "https://example.com/images/david.jpg",
+      "cover_img": "https://example.com/images/python-data-science.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Health Benefits of a Plant-Based Diet",
+      "author_name": "Emma Taylor",
+      "published_date": "2024-11-05",
+      "hashtag": ["#Health", "#PlantBased", "#Nutrition"],
+      "reading_time": 6,
+      "author_img": "https://example.com/images/emma.jpg",
+      "cover_img": "https://example.com/images/plant-based.jpg"
+    }
+  ]
+  
