@@ -6,8 +6,8 @@
       "published_date": "2024-11-15",
       "hashtag": ["#AI", "#Tech", "#Future"],
       "reading_time": 5,
-      "author_img": "https://example.com/images/alice.jpg",
-      "cover_img": "https://example.com/images/ai-future.jpg"
+      "author_img": "https://i.ibb.co.com/6v4Hp5M/boy1.png",
+      "cover_img": "https://i.ibb.co.com/hmw60rr/3412404.jpg"
     },
     {
       "id": 2,
@@ -16,8 +16,8 @@
       "published_date": "2024-10-25",
       "hashtag": ["#Minimalism", "#Lifestyle", "#Wellness"],
       "reading_time": 7,
-      "author_img": "https://example.com/images/brian.jpg",
-      "cover_img": "https://example.com/images/minimalist-living.jpg"
+      "author_img": "https://i.ibb.co.com/YTPQK1Y/boy2.jpg",
+      "cover_img": "https://i.ibb.co.com/HGbPYjZ/woman-reading-book-yellow-scene.jpg"
     },
     {
       "id": 3,
@@ -26,8 +26,8 @@
       "published_date": "2024-11-01",
       "hashtag": ["#Travel", "#Destinations", "#Adventure"],
       "reading_time": 8,
-      "author_img": "https://example.com/images/chloe.jpg",
-      "cover_img": "https://example.com/images/travel-2025.jpg"
+      "author_img": "https://i.ibb.co.com/5LwkYkv/girl1.jpg",
+      "cover_img": "https://i.ibb.co.com/QcKW1rZ/fredrik-ohlander-Lsw-Lp-UWxfb-U-unsplash.jpg"
     },
     {
       "id": 4,
@@ -36,8 +36,8 @@
       "published_date": "2024-11-10",
       "hashtag": ["#Python", "#DataScience", "#Programming"],
       "reading_time": 10,
-      "author_img": "https://example.com/images/david.jpg",
-      "cover_img": "https://example.com/images/python-data-science.jpg"
+      "author_img": "https://i.ibb.co.com/L9bz4Cb/girl2.jpg",
+      "cover_img": "https://i.ibb.co.com/4WYKCLx/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg"
     },
     {
       "id": 5,
@@ -46,8 +46,8 @@
       "published_date": "2024-11-05",
       "hashtag": ["#Health", "#PlantBased", "#Nutrition"],
       "reading_time": 6,
-      "author_img": "https://example.com/images/emma.jpg",
-      "cover_img": "https://example.com/images/plant-based.jpg"
+      "author_img": "https://i.ibb.co.com/L9bz4Cb/girl2.jpg",
+      "cover_img": "https://i.ibb.co.com/4KtdXDV/christin-hume-0-Mo-F-Fe0w0-A-unsplash.jpg"
     }
   ]
   
