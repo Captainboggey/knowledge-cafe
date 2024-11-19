@@ -3,7 +3,7 @@ import Blog from "../Blog/Blog";
 
 
 
-const Blogs = ({handleAddToBookmark}) => {
+const Blogs = ({handleAddToBookmark,handleMarkAsRead}) => {
     const [blogs,setBlogs]=useState([]);
       
 
@@ -16,7 +16,7 @@ const Blogs = ({handleAddToBookmark}) => {
         <div className="md:w-2/3">
             <h1 className="text-4xl">Blogs: {blogs.length}</h1>
             {
-                blogs.map(blog=><Blog handleAddToBookmark={handleAddToBookmark} key={blog.id} blog={blog}></Blog>)
+                blogs.map(blog=><Blog handleMarkAsRead={handleMarkAsRead} handleAddToBookmark={handleAddToBookmark} key={blog.id} blog={blog}></Blog>)
             }
             
         </div>
